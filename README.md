@@ -1,4 +1,4 @@
 - My personal portfolio website
-- I forked from Brittany's repo
+- I forked from [Brittany's repo](https://github.com/bchiang7/v4)
 - I served it with AWS EC2 instance
 - tugrulsubekci.me
