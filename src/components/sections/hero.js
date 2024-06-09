@@ -66,7 +66,7 @@ const Hero = () => {
     <>
       <p>
         I’m a Unity developer specializing in crafting captivating and immersive digital worlds.
-        Currently, I’m focused on creating innovative interior design applications at{' '}
+        Currently, I’m focused on creating innovative interior design application at{' '}
         <a href="https://sugartech.io/" target="_blank" rel="noreferrer">
           Sugar Technology
         </a>
