@@ -1,5 +1,5 @@
 ---
-date: '2017-12-21'
+date: '2022-10'
 title: 'Unity Developer'
 company: 'Sugar Technology'
 location: 'Istanbul, TR'

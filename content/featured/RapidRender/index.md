@@ -3,12 +3,16 @@ date: '1'
 title: 'RapidRender'
 cover: './rapidRender.png'
 external: 'https://rapidrender.app/'
-cta: ''
+cta: 'https://rapidrender.app/'
 tech:
   - Unity
   - C#
-  - SharderLab
+  - ShaderLab
   - Inno Setup (Pascal)
+  - MySQL
+  - Virtual & Mixed Reality
+  - Restful API
+  - Spring
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+RapidRender is a cutting-edge interior design app that uses 3D scanning and VR/AR technology to create digital twins of real products. It has a vast library of over 20,000 items and an integrated cloud rendering system for high-resolution images in seconds. Ideal for designers, shop owners, and real estate professionals, RapidRender streamlines the design process and offers immersive, realistic presentations.
