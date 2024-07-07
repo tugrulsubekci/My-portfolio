@@ -6,6 +6,7 @@ external: 'https://tugrulsubekci.itch.io/my-bird'
 tech:
   - Unity
   - C#
+  - Blender
 company: 'Self-Employed'
 showInProjects: true
 ---

@@ -6,6 +6,7 @@ external: 'https://www.devoted.com/'
 tech:
   - Unity
   - C#
+  - Blender
 company: 'Self-Employed'
 showInProjects: true
 ---
