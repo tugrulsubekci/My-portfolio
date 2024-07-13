@@ -15,4 +15,4 @@ tech:
   - Spring
 ---
 
-RapidRender is a cutting-edge interior design app that uses 3D scanning and VR/AR technology to create digital twins of real products. It has a vast library of over 20,000 items and an integrated cloud rendering system for high-resolution images in seconds. Ideal for designers, shop owners, and real estate professionals, RapidRender streamlines the design process and offers immersive, realistic presentations.
+RapidRender is a cutting-edge interior design app that uses 3D scanning and VR/AR technology. It has a vast library of over 20,000 digital twins of real products and an integrated cloud rendering system for high-resolution images in seconds. Ideal for designers, shop owners, and real estate professionals, RapidRender streamlines the design process and offers immersive, realistic presentations.
