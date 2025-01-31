@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Tuğrul Sübekci',
+    title: 'Tugrul Subekci',
     description:
-      'I’m a Unity developer specializing in crafting captivating and immersive digital worlds.',
+      'I’m a Software Engineer who build immersive and engaging digital experiences.',
     siteUrl: 'https://tugrulsubekci.me', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@tugrulsubekci',

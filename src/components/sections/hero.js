@@ -60,17 +60,13 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Tuğrul Sübekci.</h2>;
-  const three = <h3 className="big-heading">I build immersive and engaging digital experiences</h3>;
+  const two = <h2 className="big-heading">Tugrul Subekci.</h2>;
+  const three = <h3 className="big-heading">Software Engineer</h3>;
   const four = (
     <>
       <p>
-        I’m a Unity developer specializing in crafting captivating and immersive digital worlds.
-        Currently, I’m focused on creating innovative interior design application at{' '}
-        <a href="https://sugartech.io/" target="_blank" rel="noreferrer">
-          Sugar Technology
-        </a>
-        .
+        I build immersive and engaging digital experiences.
+        Currently, I’m focused on pursuing my MSc in Computer Science at University of Greenwich.
       </p>
     </>
   );
