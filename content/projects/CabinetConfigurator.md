@@ -3,12 +3,12 @@ date: '2023-10'
 title: 'Cabinet Configurator'
 github: ''
 external: 'https://www.youtube.com/watch?v=-yCDWoIQ0HM'
-tech:
-  - Unity
-  - C#
-  - WebXR
-  - Virtual Reality
-  - JavaScript
+# tech:
+#   - Unity
+#   - C#
+#   - WebXR
+#   - Virtual Reality
+#   - JavaScript
 company: 'Sugar Technology'
 showInProjects: true
 ---

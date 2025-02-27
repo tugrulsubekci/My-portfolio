@@ -3,9 +3,9 @@ date: '2022-08-30'
 title: 'Chemistry Lab'
 github: ''
 external: 'https://tugrulsubekci.itch.io/chemistrylab'
-tech:
-  - Unity
-  - C#
+# tech:
+#   - Unity
+#   - C#
 company: 'Self-Employed'
 showInProjects: true
 ---

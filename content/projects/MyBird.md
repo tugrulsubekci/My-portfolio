@@ -3,10 +3,10 @@ date: '2022-06'
 title: 'My Bird'
 github: ''
 external: 'https://tugrulsubekci.itch.io/my-bird'
-tech:
-  - Unity
-  - C#
-  - Blender
+# tech:
+#   - Unity
+#   - C#
+#   - Blender
 company: 'Self-Employed'
 showInProjects: true
 ---

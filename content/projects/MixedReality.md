@@ -3,10 +3,10 @@ date: '2024-02'
 title: 'Mixed Reality'
 github: ''
 external: 'https://youtu.be/70kFg30x7MQ'
-tech:
-  - Unity
-  - C#
-  - Mixed Reality
+# tech:
+#   - Unity
+#   - C#
+#   - Mixed Reality
 company: 'Sugar Technology'
 showInProjects: true
 ---

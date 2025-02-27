@@ -3,10 +3,10 @@ date: '2022-08-15'
 title: 'Helix Jump'
 github: ''
 external: 'https://www.devoted.com/'
-tech:
-  - Unity
-  - C#
-  - Blender
+# tech:
+#   - Unity
+#   - C#
+#   - Blender
 company: 'Self-Employed'
 showInProjects: true
 ---

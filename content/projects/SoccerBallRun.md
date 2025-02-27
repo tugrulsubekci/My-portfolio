@@ -3,9 +3,9 @@ date: '2022-09'
 title: 'Soccer Ball Run'
 github: ''
 external: 'https://tugrulsubekci.itch.io/soccer-ball-run'
-tech:
-  - Unity
-  - C#
+# tech:
+#   - Unity
+#   - C#
 company: 'Self-Employed'
 showInProjects: true
 ---

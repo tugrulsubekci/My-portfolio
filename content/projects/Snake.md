@@ -3,9 +3,9 @@ date: '2022-05'
 title: 'Snake'
 github: ''
 external: 'https://tugrulsubekci.itch.io/snake-clone'
-tech:
-  - Unity
-  - C#
+# tech:
+#   - Unity
+#   - C#
 company: 'Self-Employed'
 showInProjects: true
 ---

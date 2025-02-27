@@ -3,9 +3,9 @@ date: '2022-07'
 title: 'Tetris'
 github: ''
 external: 'https://tugrulsubekci.itch.io/my-tetris'
-tech:
-  - Unity
-  - C#
+# tech:
+#   - Unity
+#   - C#
 company: 'Self-Employed'
 showInProjects: true
 ---

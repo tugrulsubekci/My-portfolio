@@ -3,9 +3,9 @@ date: '2022-10'
 title: 'Connect Them All!'
 github: ''
 external: 'https://tugrulsubekci.itch.io/connect-them-all'
-tech:
-  - Unity
-  - C#
+# tech:
+#   - Unity
+#   - C#
 company: 'Self-Employed'
 showInProjects: true
 ---

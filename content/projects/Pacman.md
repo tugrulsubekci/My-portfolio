@@ -3,9 +3,9 @@ date: '2022-07'
 title: 'Pacman'
 github: ''
 external: 'https://tugrulsubekci.itch.io/pacman-clone'
-tech:
-  - Unity
-  - C#
+# tech:
+#   - Unity
+#   - C#
 company: 'Self-Employed'
 showInProjects: true
 ---

@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Game math'
+title: '3D Math'
 cover: './game-math.png'
 github: 'https://github.com/tugrulsubekci/Game-Math'
 tech:

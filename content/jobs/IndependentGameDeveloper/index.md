@@ -1,6 +1,6 @@
 ---
 date: '2022-05'
-title: 'Independent Game Developer'
+title: 'Independent Software Engineer'
 company: 'Self-Employed'
 location: 'Istanbul, TR'
 range: 'May 2022 - October 2022'

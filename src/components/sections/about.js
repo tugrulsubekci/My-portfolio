@@ -125,26 +125,26 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = [
-    'Unity',
-    'C#',
-    'ShaderLab',
-    'Virtual & Mixed Reality',
-    'MySQL',
-    'Java',
-    'JavaScript',
-    'React.js',
-    'Visual Studio Code',
-    'Git',
-    'Blender',
-    'Machine Learning',
-    'Python',
-    'Large Language Models (LLMs)',
-    'Neural Networks',
-    'TensorFlow',
-    'Scikit-Learn',
-    'Jupiter Notebook'
-  ];
+  // const skills = [
+  //   'Unity',
+  //   'C#',
+  //   'ShaderLab',
+  //   'Virtual & Mixed Reality',
+  //   'MySQL',
+  //   'Java',
+  //   'JavaScript',
+  //   'React.js',
+  //   'Visual Studio Code',
+  //   'Git',
+  //   'Blender',
+  //   'Machine Learning',
+  //   'Python',
+  //   'Large Language Models (LLMs)',
+  //   'Neural Networks',
+  //   'TensorFlow',
+  //   'Scikit-Learn',
+  //   'Jupiter Notebook'
+  // ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -159,16 +159,16 @@ const About = () => {
               career journey and had the privilege of working at a startup that was{' '}
               <a href="https://sugartech.io/">revolutionizing the interior design market </a> with
               its <a href="https://rapidrender.app/">interior design application </a> product and
-              being part of the team that made it a success. Currently, I am expanding my 
-              knowledge and skills through my MSc in Computer Science.
+              being part of the team that made it a success. Currently, I am expanding my knowledge
+              and skills through my MSc in Computer Science.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            {/* <p>Here are a few technologies I’ve been working with recently:</p> */}
           </div>
 
-          <ul className="skills-list">
+          {/* <ul className="skills-list">
             {skills && skills.map((skill, i) => <li key={i}>{skill}</li>)}
-          </ul>
+          </ul> */}
         </StyledText>
 
         <StyledPic>
