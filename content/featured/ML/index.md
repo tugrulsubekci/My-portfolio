@@ -15,4 +15,4 @@ tech:
 
 This repository contains solutions for machine learning tasks applied to a dataset involving material properties and manufacturing parameters. The goal is to predict Lifespan using regression and classify samples as defective or non-defective.
 
-[View Code](https://gist.github.com/tugrulsubekci/e7b8d730210c928f4a4aa31c2a1345d5)
+<!-- [View Code](https://gist.github.com/tugrulsubekci/e7b8d730210c928f4a4aa31c2a1345d5) -->
