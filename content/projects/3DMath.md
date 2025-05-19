@@ -1,14 +1,19 @@
 ---
-date: '2'
+date: '2023-10'
 title: '3D Math'
-cover: './game-math.png'
 github: 'https://github.com/tugrulsubekci/Game-Math'
-tech:
-  - Unity
-  - C#
+# external: 'https://www.youtube.com/watch?v=-yCDWoIQ0HM'
+# tech:
+#   - Unity
+#   - C#
+#   - WebXR
+#   - Virtual Reality
+#   - JavaScript
+company: 'Self-Employed'
+showInProjects: true
 ---
 
-My works about 3D mathematics, I completed [Freya's assignments](https://acegikmo.notion.site/Lectures-Assignments-a4419295f33f46c3af113eb74b407607).
+My works about 3D mathematics, I completed Freya's assignments.
 
 - Bouncing lasers
 - Transformation (local to world, world to local)

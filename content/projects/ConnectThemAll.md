@@ -7,7 +7,7 @@ external: 'https://tugrulsubekci.itch.io/connect-them-all'
 #   - Unity
 #   - C#
 company: 'Self-Employed'
-showInProjects: true
+showInProjects: false
 ---
 
 I developed a mobile-optimized, endless puzzle game with vibration feedback and Unity Ads. It uses analytics tools like Appmetrica, Firebase, Google Play Services, and Airbridge. Successfully launched on Google Play Store, featuring push notifications, in-app updates, and user reviews.
