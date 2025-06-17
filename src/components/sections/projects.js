@@ -179,6 +179,7 @@ const Projects = () => {
           node {
             frontmatter {
               title
+              tech
               github
               external
             }

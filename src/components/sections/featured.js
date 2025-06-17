@@ -319,6 +319,7 @@ const Featured = () => {
                   gatsbyImageData(width: 700, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
                 }
               }
+              tech
               github
               external
               cta
@@ -372,13 +373,13 @@ const Featured = () => {
                       dangerouslySetInnerHTML={{ __html: html }}
                     />
 
-                    {/* {tech.length && (
+                    {tech.length && (
                       <ul className="project-tech-list">
                         {tech.map((tech, i) => (
                           <li key={i}>{tech}</li>
                         ))}
                       </ul>
-                    )} */}
+                    )}
 
                     <div className="project-links">
                       {cta && (
