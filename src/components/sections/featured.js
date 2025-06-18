@@ -319,7 +319,6 @@ const Featured = () => {
                   gatsbyImageData(width: 700, placeholder: BLURRED, formats: [AUTO, WEBP, AVIF])
                 }
               }
-              tech
               github
               external
               cta
@@ -355,7 +354,7 @@ const Featured = () => {
         {featuredProjects &&
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
-            const { external, title, tech, github, cover, cta } = frontmatter;
+            const { external, title, github, cover, cta } = frontmatter;
             const image = getImage(cover);
 
             return (
@@ -372,14 +371,6 @@ const Featured = () => {
                       className="project-description"
                       dangerouslySetInnerHTML={{ __html: html }}
                     />
-
-                    {tech.length && (
-                      <ul className="project-tech-list">
-                        {tech.map((tech, i) => (
-                          <li key={i}>{tech}</li>
-                        ))}
-                      </ul>
-                    )}
 
                     <div className="project-links">
                       {cta && (

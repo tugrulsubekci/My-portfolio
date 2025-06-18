@@ -3,10 +3,6 @@ date: '4'
 title: 'Online Booking System'
 cover: './booking.png'
 external: 'https://youtu.be/JHlpEvzrGQs'
-tech:
-  - C#
-  - ASP.NET MVC
-  - PostgreSQL
 ---
 
 - Developed as part of my MSc Computer Science programme at the University of Greenwich

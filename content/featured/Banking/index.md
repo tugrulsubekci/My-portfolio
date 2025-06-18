@@ -4,13 +4,6 @@ title: 'Banking System Web Application'
 cover: './banking.png'
 # github: 'https://github.com/tugrulsubekci/My-portfolio'
 external: 'https://youtu.be/XJYjdYfjiek'
-tech:
-  - Java EE
-  - MySQL
-  - WildFly
-  - Eclipse IDE
-  - Postman
-  - Restful API
 ---
 
 Developed as part of a university group project:

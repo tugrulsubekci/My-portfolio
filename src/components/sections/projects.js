@@ -179,7 +179,6 @@ const Projects = () => {
           node {
             frontmatter {
               title
-              tech
               github
               external
             }
@@ -213,7 +212,7 @@ const Projects = () => {
 
   const projectInner = node => {
     const { frontmatter, html } = node;
-    const { github, external, title, tech } = frontmatter;
+    const { github, external, title } = frontmatter;
 
     return (
       <div className="project-inner">
@@ -249,16 +248,6 @@ const Projects = () => {
 
           <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
         </header>
-
-        <footer>
-          {tech && (
-            <ul className="project-tech-list">
-              {tech.map((tech, i) => (
-                <li key={i}>{tech}</li>
-              ))}
-            </ul>
-          )}
-        </footer>
       </div>
     );
   };

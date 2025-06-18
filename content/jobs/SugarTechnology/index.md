@@ -7,11 +7,12 @@ range: 'October 2022 - Now'
 url: 'https://sugartech.io/'
 ---
 
-- Developed an interior design app.
-- Created virtual and mixed reality (VR/MR) design experiences.
-- Designed a cabinet configurator for user customization.
-- Integrated multiplayer features for collaborative design.
-- Established and managed a metaverse store for digital design products.
-- Contributed to innovative solutions in interior design technology.
-- Developed and maintained web services and APIs to support application functionality.
-- Utilized SQL to analyze data, troubleshoot issues, and solve software engineering challenges.
+- Built and maintained scalable, user-centric applications.
+- Designed modular architectures for performance and flexibility.
+- Collaborated across teams to deliver high-quality software.
+- Applied design patterns to ensure clean, maintainable code.
+- Diagnosed and resolved performance and usability issues.
+- Developed internal APIs and integrated services.
+- Analyzed data to debug and improve functionality.
+- Proposed and prototyped technical solutions to complex problems.
+- Participated in agile workflows and peer code reviews.
